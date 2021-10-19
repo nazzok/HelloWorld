@@ -10,6 +10,6 @@ Write "Hello, World" program, check it into Git, modify, and check the update.
 using namespace std;
 int main()
 {
-	cout << "Hello World!" << endl;
+	cout << "Hello, Universe!" << endl;
 	return 0;
 }
